@@ -39,8 +39,7 @@ currently_learning:
 
 ---
 
-## 🛠 Tech Stack
-
+```md
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,git,github,vscode" />
