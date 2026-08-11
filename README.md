@@ -9,7 +9,11 @@
 
 # 🌙 Hi, I'm Yang Yang
 
-✨ Exploring Code, AI and Open Source ✨
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hello+World+🌙;Welcome+to+my+GitHub;Learning+Something+New+Everyday;Code+%7C+AI+%7C+Open+Source" />
+
+</div>
 
 </div>
 
