@@ -36,3 +36,33 @@ currently_learning:
   - Python
   - C++
   - Git
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,git,github,vscode" />
+
+</div>
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Lunaris-Y&show_icons=true&theme=tokyonight" />
+
+</div>
+
+
+---
+
+<div align="center">
+
+🌙 Thanks for visiting my profile 🌙
+
+</div>
