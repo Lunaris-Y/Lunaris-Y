@@ -2,17 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Lunaris-Y&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 
-</div>
-
-
-<div align="center">
-
 # 🌙 Hi, I'm yy
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hello+World+🌙;Welcome+to+my+GitHub;Learning+Something+New+Everyday;Code+%7C+AI+%7C+Open+Source" />
 
 </div>
-
 
 ---
 
@@ -20,7 +14,6 @@
 
 ```yaml
 name: yy
-
 nickname: Lunaris
 
 focus:
@@ -44,19 +37,17 @@ currently_learning:
 
 </div>
 
-
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lunaris-Y&theme=tokyo-night" />
-
-</div>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Lunaris-Y&show_icons=true&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lunaris-Y&theme=tokyo-night" />
 
 </div>
 
@@ -66,11 +57,9 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lunaris-Y/Lunaris-Y/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Lunaris-Y/Lunaris-Y/gh-pages/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 
 </div>
----
-
 
 ---
 
@@ -78,9 +67,11 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lunaris-Y/Lunaris-Y/main/profile-3d-contrib/profile-night-rainbow.svg" />
+<img src="https://raw.githubusercontent.com/Lunaris-Y/Lunaris-Y/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution" />
 
 </div>
+
+---
 
 ## 👀 Visitor Count
 
@@ -88,7 +79,8 @@ currently_learning:
 
 <img src="https://komarev.com/ghpvc/?username=Lunaris-Y&style=for-the-badge&color=blueviolet" />
 
-</div>
-🌙 Thanks for visiting my profile 🌙
+<br/><br/>
+
+🌙 **Thanks for visiting my profile** 🌙
 
 </div>
