@@ -71,9 +71,6 @@ currently_learning:
 </div>
 ---
 
-<div align="center">
----
----
 
 ## 🌌 3D Contribution
 
