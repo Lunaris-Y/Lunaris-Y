@@ -60,7 +60,15 @@ currently_learning:
 
 </div>
 
+---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Lunaris-Y/Lunaris-Y/output/github-contribution-grid-snake.svg" />
+
+</div>
 ---
 
 <div align="center">
