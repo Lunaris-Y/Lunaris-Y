@@ -48,6 +48,11 @@ currently_learning:
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lunaris-Y&theme=tokyo-night" />
+
+</div>
 
 <div align="center">
 
