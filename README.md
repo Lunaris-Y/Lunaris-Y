@@ -72,7 +72,15 @@ currently_learning:
 ---
 
 <div align="center">
+---
 
+## 👀 Visitor Count
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Lunaris-Y&style=for-the-badge&color=blueviolet" />
+
+</div>
 🌙 Thanks for visiting my profile 🌙
 
 </div>
